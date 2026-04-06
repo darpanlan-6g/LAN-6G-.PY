@@ -1,0 +1,5 @@
+Real_Time,Sim_Tick,Office_Occupancy,Office_HVAC_kW,Urban_Vehicles,Urban_Pedestrians,Highway_Stress_Pct,Class_CO2_ppm,Class_Engagement_Score
+15:25:29,1,77,110.38,27,24,13.64,427,101.72
+15:25:30,2,47,65.44,43,5,17.59,451,90.97
+15:25:30,3,61,93.3,12,19,70.71,489,92.84
+15:25:31,4,60,80.84,38,7,17.2,509,93.64
