@@ -14,6 +14,7 @@
 6. [Node Definition Format](#node-definition-format)
 7. [Visualization Panels](#visualization-panels)
 8. [Simulation State Machine](#simulation-state-machine)
+9. [Mobility Models](#mobility-models)machine)
 9. [Mobility Models](#mobility-models)
 10. [Code Structure Walkthrough](#code-structure-walkthrough)
 11. [Interactive Controls](#interactive-controls)
