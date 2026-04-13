@@ -1,0 +1,10 @@
+Node,Type,Service,SINR_dB,Throughput_Mbps,X,Y
+S1,phone,eMBB,16.76,671.9,12.1,16.2
+S2,phone,eMBB,20.22,807.7,21.9,22.1
+S3,phone,eMBB,17.10,684.9,30.1,13.9
+S4,phone,eMBB,22.15,884.2,57.9,16.1
+S5,phone,eMBB,18.83,752.7,72.1,20.1
+S6,phone,eMBB,16.17,648.7,64.9,9.9
+T1,laptop,eMBB,17.63,705.7,20.0,52.0
+T2,laptop,eMBB,19.96,797.4,65.0,52.0
+Proj,iot,URLLC,54.05,2154.4,45.0,35.0
